@@ -1,0 +1,1 @@
+            if (totalCost.textContent == 0){
